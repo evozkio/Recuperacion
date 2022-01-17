@@ -110,7 +110,7 @@ const styles = StyleSheet.create(
         fontSize: 20,
         color: 'black',
         borderWidth: 1,
-        height: 30,
+        height: 50,
         width: 200
       }
     }
